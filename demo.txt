@@ -13,4 +13,6 @@ here is some regular text .
 
 more text. This has been local changes 
 
+it can be very usefull to implementing our changes .
+
 ............................>>>>>>
